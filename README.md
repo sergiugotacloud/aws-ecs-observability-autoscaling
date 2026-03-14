@@ -342,8 +342,7 @@ Confirm SNS subscriptions before testing notifications
 
 Sergiu Gota  
 
-AWS Certified Solutions Architect – Associate  
-AWS Certified Cloud Practitioner  
+AWS Cloud Engineer 
 
 GitHub  
 https://github.com/sergiugotacloud
